@@ -1,0 +1,39 @@
+{
+  "node": {
+    "40e62557092fe726cf64ae288a7a25f177ea54201e": {
+      "workers": {
+        "app/book/[id]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsba%2FDesktop%2Fnext%2Fsection3%2Fsrc%2Factions%2Fcreate-review.action.ts%22%2C%5B%7B%22id%22%3A%2260e62557092fe726cf64ae288a7a25f177ea54201e%22%2C%22exportedName%22%3A%22createReviewAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fsba%2FDesktop%2Fnext%2Fsection3%2Fsrc%2Factions%2Fdelete-review.action.ts%22%2C%5B%7B%22id%22%3A%226063efa4cd3d247d591ccf9fd9b4ae6e3293c75f99%22%2C%22exportedName%22%3A%22deleteReviewAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/book/[id]/page": "action-browser"
+      }
+    },
+    "60e62557092fe726cf64ae288a7a25f177ea54201e": {
+      "workers": {
+        "app/book/[id]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsba%2FDesktop%2Fnext%2Fsection3%2Fsrc%2Factions%2Fcreate-review.action.ts%22%2C%5B%7B%22id%22%3A%2260e62557092fe726cf64ae288a7a25f177ea54201e%22%2C%22exportedName%22%3A%22createReviewAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fsba%2FDesktop%2Fnext%2Fsection3%2Fsrc%2Factions%2Fdelete-review.action.ts%22%2C%5B%7B%22id%22%3A%226063efa4cd3d247d591ccf9fd9b4ae6e3293c75f99%22%2C%22exportedName%22%3A%22deleteReviewAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/book/[id]/page": "action-browser"
+      }
+    },
+    "6063efa4cd3d247d591ccf9fd9b4ae6e3293c75f99": {
+      "workers": {
+        "app/book/[id]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsba%2FDesktop%2Fnext%2Fsection3%2Fsrc%2Factions%2Fcreate-review.action.ts%22%2C%5B%7B%22id%22%3A%2260e62557092fe726cf64ae288a7a25f177ea54201e%22%2C%22exportedName%22%3A%22createReviewAction%22%7D%5D%5D%2C%5B%22%2FUsers%2Fsba%2FDesktop%2Fnext%2Fsection3%2Fsrc%2Factions%2Fdelete-review.action.ts%22%2C%5B%7B%22id%22%3A%226063efa4cd3d247d591ccf9fd9b4ae6e3293c75f99%22%2C%22exportedName%22%3A%22deleteReviewAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/book/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "2MWdHCNn3Op4NR7nWEXA1IHt5H2gwvBQshxnEE7/UYs="
+}
