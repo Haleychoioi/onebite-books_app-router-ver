@@ -4,6 +4,7 @@ import style from "./page.module.css";
 import { BookData } from "@/types";
 import { delay } from "@/util/delay";
 import BookListSkeleton from "@/components/skeleton/book-list-skeleton";
+import { Metadata } from "next";
 
 async function AllBooks() {
   await delay(1500);
@@ -26,7 +27,17 @@ async function AllBooks() {
   );
 }
 
-export const dynamix = "force-dynamic";
+export const dynamic = "force-dynamic";
+
+export const metadata: Metadata = {
+  title: "한입 북스",
+  description: "한입 북스에 등록된 도서를 만나보세요",
+  openGraph: {
+    title: "한입 북스",
+    description: "한입 북스에 등록된 도서를 만나보세요",
+    images: ["/thumbnail.png"],
+  },
+};
 
 async function RecoBooks() {
   await delay(3000);

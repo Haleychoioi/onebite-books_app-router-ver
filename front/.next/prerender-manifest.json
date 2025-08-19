@@ -1,1 +1,0 @@
-{"version":4,"routes":{"/book/1":{},"/book/2":{},"/book/3":{}},"dynamicRoutes":{"/book/[id]":{"fallback":null}},"notFoundRoutes":[],"preview":{"previewModeId":"7161394838b30754accebb9a81fe34e4","previewModeSigningKey":"364dc524c1c110517caa8897f6a108c0789a1bf4f5950659a8117c72551eb0b0","previewModeEncryptionKey":"54b77d7e7340a9a0c981625976081f74fb206a4fbf857a18c17ad9e21a55e291"}}
