@@ -2,7 +2,7 @@
 
 배포된 웹사이트는 다음 링크에서 만나볼 수 있습니다.
 
-[**ONEBITE BOOKS**](https://onebite-books-kappa.vercel.app/)
+[**ONEBITE BOOKS**](https://onebite-books-app-liard.vercel.app/)
 
 ---
 
